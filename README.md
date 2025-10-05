@@ -61,8 +61,7 @@ python gym.py  # This will create gym_management.db if it doesn't exist
 5. Stats update in real-time in the header. 📈  
 6. Search filters users instantly. ⚡  
 
-## Screenshots 🖼️
-*(Add your app screenshots here for better visuals, e.g., home screen, user table, profile dialog.)*
+
 
 ## Contributing 🤝
 Fork the repo, make changes, and submit a pull request. Issues and feature requests welcome!  
